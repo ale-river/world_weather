@@ -22,7 +22,7 @@ This project uses Google APIs such as Google Maps, Google Locations and Google R
 Handeling graph's scripts and statements that help to identify different variables that helps to create a visualization and make the ability to read JSON files.
 
 ## Summary
-### TRIP TO CHINA ###
+### TRIP TO CHINA ### :cn:
 
 Cities that satisfied the parameters of:
 -_Latitude and longitude
@@ -37,5 +37,5 @@ Cities that satisfied the parameters of:
 Conclusions using API Google Maps
 ![Routes in China](Vacation_Search/Final_Result.png)
 
-Selected cities in CHINA :china:
+Selected cities in CHINA 
 ![Destinations in China](Vacation_Search/Maps_Results.png)
